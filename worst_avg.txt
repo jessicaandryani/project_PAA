@@ -1,0 +1,12 @@
+Nama: Jessica Andryani
+NIM: 051
+Kelas: B - PAA
+
+Size: 100, Worst case: 0.000030, Average case: 0.000007
+Size: 150, Worst case: 0.002190, Average case: 0.000009
+Size: 200, Worst case: 0.000010, Average case: 0.000011
+Size: 250, Worst case: 0.000096, Average case: 0.000012
+Size: 300, Worst case: 0.000131, Average case: 0.000013
+Size: 350, Worst case: 0.000026, Average case: 0.000014
+Size: 400, Worst case: 0.000309, Average case: 0.000015
+Size: 500, Worst case: 0.000058, Average case: 0.000017
