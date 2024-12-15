@@ -13,4 +13,4 @@ Program ini bertujuan untuk:
 ## Struktur File
 - `extensi.py`: Script Python untuk menjalankan eksperimen.
 - `worst_avg.txt`: Hasil perhitungan waktu eksekusi.
-- `plot.pdf` & `graph_output.jpg`: Grafik hasil eksekusi.
+- `plot.pdf` : Grafik hasil eksekusi.
